@@ -26,10 +26,10 @@ Si les deux choix sont identiques, il y a égalité.
 
 ## ▶️ Exemple d'utilisation
 
-$ python jeu.py
-Choisissez Pierre, Feuille ou Ciseaux: pierre
-Vous avez perdu
-Choix de l'ordinateur feuille
+$ python jeu.py  
+Choisissez Pierre, Feuille ou Ciseaux: pierre  
+Vous avez perdu  
+Choix de l'ordinateur feuille  
 
 ## 🧠 Pourquoi ce projet ?
 
