@@ -30,7 +30,7 @@ Si les deux choix sont identiques, il y a égalité.
 $ python3 pierre_feuille_ciseaux.py  
 Choisissez Pierre, Feuille ou Ciseaux: pierre  
 Vous avez perdu  
-Choix de l ordinateur feuille  
+Choix de l ordinateur : feuille  
 ```
 ## 🧠 Pourquoi ce projet ?
 
