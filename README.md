@@ -26,10 +26,10 @@ Si les deux choix sont identiques, il y a égalité.
 
 ## ▶️ Exemple d'utilisation
 
-```bash
 $ python jeu.py
-Choisissez Pierre, Feuille ou Ciseaux: pierre Vous avez gagné Choix de l'ordinateur ciseaux
-
+Choisissez Pierre, Feuille ou Ciseaux: pierre
+Vous avez perdu
+Choix de l'ordinateur feuille
 
 ## 🧠 Pourquoi ce projet ?
 
@@ -39,12 +39,3 @@ Il pourrait être amélioré par des ajouts tels que :
 - Ajouter une interface graphique.
 - Ajouter une fonctionnalité pour jouer plusieurs rounds.
 - Intégrer des statistiques sur les victoires/défaites.
-
-## ⚙️ Prérequis
-
-Ce projet nécessite **Python 3** pour être exécuté. Si Python n'est pas installé sur votre machine, vous pouvez le télécharger ici : https://www.python.org/downloads/.
-
-## 📁 Installation
-
-Clonez ce dépôt pour jouer au jeu sur votre machine :
-
