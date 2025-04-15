@@ -27,11 +27,12 @@ Si les deux choix sont identiques, il y a égalité.
 ## ▶️ Exemple d'utilisation
 
 ```bash
-$ python3 pierre_feuille_ciseaux.py  
+$ python3 pierre_feuille_ciseaux.py
+```
 Choisissez Pierre, Feuille ou Ciseaux: pierre  
 Vous avez perdu  
-Choix de l ordinateur : feuille  
-```
+Choix de l'ordinateur : feuille  
+
 ## 🧠 Pourquoi ce projet ?
 
 Ce projet est une première étape dans mon apprentissage de Python. Il m'a permis de comprendre les bases de la programmation interactive, des conditions, et de la gestion des entrées utilisateur.
