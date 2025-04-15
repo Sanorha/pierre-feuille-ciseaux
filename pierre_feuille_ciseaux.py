@@ -16,6 +16,6 @@ if choix in options:
         else:
             print("Vous avez perdu")
 
-    print("Choix de l'ordinateur", selection_rand)
+    print("Choix de l'ordinateur :", selection_rand)
 else:
     print("Choix incorrect: options - pierre, feuille, ciseaux")
